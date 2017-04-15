@@ -28,8 +28,8 @@ Experienced senior-level technology professional with over 20 years of diverse t
 # Experience
 
 ## Senior DevOps Engineer
-*MAP Health Management, LLC*
-Austin, TX
+*MAP Health Management, LLC* |
+Austin, TX |
 April 2016 - March 2017
 
 ### RESPONSIBILITIES
@@ -44,8 +44,8 @@ DevOps support and senior software development oversight for HIPAA-covered appli
 * Developed secure HIPAA-compliant mobile video conference apps for iOS using Objective-C, and Android using Java, with a NodeJS ExpressJS API utilizing the TokBox WebRTC platform with their RESTful API and OpenTok SDK
 
 ## Senior Software Developer at MAP Health Management
-*Technology Navigators*
-Austin, TX
+*Technology Navigators* |
+Austin, TX |
 November 2015 - April 2016
 
 ### RESPONSIBILITIES
@@ -58,8 +58,8 @@ Provided project management and development oversight of multiple external and o
 * Coached and mentored other developers regarding security and design issues
 
 ## Senior Software Developer
-*Nimboxx, Inc*
-Austin, TX
+*Nimboxx, Inc* |
+Austin, TX |
 June 2014 - August 2015
 
 ### RESPONSIBILITIES
@@ -78,8 +78,8 @@ Advanced engineering and software development for the Nimboxx hyperconverged ser
 * Utilized AJAX (Asynchronous JavaScript and XML) and XML-RPC/JSON-RPC style for API communication, along with front-end frameworks like jQuery
 
 ## Assistant Vice President, Systems Engineering Consultant
-*Bank of America*
-Addison, TX
+*Bank of America Corp*  |
+Addison, TX |
 January 2006 - June 2014 
 
 ### RESPONSIBILITIES
@@ -99,8 +99,8 @@ Provided software architecture, design, and systems/software development of mult
 
 
 ## Mainframe Systems Engineer
-*MBNA Technology, Inc (Bank of America)*
-Addison, TX
+*MBNA Technology, Inc (Bank of America)*  |
+Addison, TX |
 2004 - 2006
 
 ### HIGHLIGHTS
@@ -110,8 +110,8 @@ Addison, TX
 * Systems automation on z/OS mainframe platform across multiple LPARs and SysPlexes
 
 ## Desktop Computing Systems Engineer
-*MBNA Technology, Inc (Bank of America)*
-Addison, TX
+*MBNA Technology, Inc (Bank of America)* |
+Addison, TX |
 1999 - 2004
 
 Held multiple positions. 
@@ -125,8 +125,8 @@ Held multiple positions.
 # Community Involvement
 
 ## Board of Directors, Coach
-*Tracks 4 Kids, Nonprofit Corporation*
-Allen, TX
+*Tracks 4 Kids, Nonprofit Corporation* |
+Allen, TX |
 2010 - Present
 
 Focuses on assisting special needs and at-risk children develop social and life skills. Provides several programs for children with special developmental needs such as autism spectrum disorders, Aspergers syndrome, ADHD, and other challenges, allowing the children to grow their social and planning skills through teamwork and technical projects. 
