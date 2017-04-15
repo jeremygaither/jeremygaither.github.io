@@ -32,10 +32,7 @@ Experienced senior-level technology professional with over 20 years of diverse t
 Austin, TX |
 April 2016 - March 2017
 
-### RESPONSIBILITIES
 DevOps support and senior software development oversight for HIPAA-covered applications deployed in a cloud computing environment. 
-
-### HIGHLIGHTS
 
 * Assisted CTO and management team with architecture and design for next generation streaming analytics platform, migrating platform to RESTful API and microservice architecture
 * Developed and deployed multiple custom DevOps tools using JavaScript NodeJS AWS APIs and Bash with the AWS CLI tools
@@ -48,10 +45,7 @@ DevOps support and senior software development oversight for HIPAA-covered appli
 Austin, TX |
 November 2015 - April 2016
 
-### RESPONSIBILITIES
 Provided project management and development oversight of multiple external and offshore contract development teams.
-
-### HIGHLIGHTS
 
 *  JSON RPC style API-driven SPA app with AngularJS, NodeJS and Java for backend and API, and SQL Server
 * Reviewed code pull requests for design, security concerns, correctness, and HIPAA compliance prior to merging code from external contractors
@@ -62,10 +56,7 @@ Provided project management and development oversight of multiple external and o
 Austin, TX |
 June 2014 - August 2015
 
-### RESPONSIBILITIES
 Advanced engineering and software development for the Nimboxx hyperconverged server appliance. Held multiple positions. Part-time consultant February 2014 - June 2014. Nimboxx ceased business operations in 2015.
-
-### HIGHLIGHTS
 
 * Participated in architecture and design, product planning, security, and systems development groups to explore problems and recommend solutions
 * Windows platform subject matter expert
@@ -82,10 +73,7 @@ Advanced engineering and software development for the Nimboxx hyperconverged ser
 Addison, TX |
 January 2006 - June 2014 
 
-### RESPONSIBILITIES
 Provided software architecture, design, and systems/software development of multiple multi-tier systems running on Windows and Linux platforms. Supported highly critical systems, such as the global on-call scheduling and notification system, which is utilized for communicating critical technical incidents and other events via pagers, SMS, email, and other mobile channels. Modernized multiple legacy mainframe systems with rewrites in Java and web apps. (Formerly MBNA 1999-2005; Full-time Contractor Feb-Aug 1999)
-
-### HIGHLIGHTS
 
 * Led small team for remediation/rewrite projects, and several new application projects
 * Remediated several Visual Basic 6 apps, converting to Visual Basic .NET or rewriting in C# with Spring .NET
@@ -103,8 +91,6 @@ Provided software architecture, design, and systems/software development of mult
 Addison, TX |
 2004 - 2006
 
-### HIGHLIGHTS
-
 * Integrated mainframe and distributed applications by designing and developing modern Java applications utilizing TCP/IP sockets, message queues (JMS), and multiple databases
 * Supported mainframe communications with multiple Solaris and Windows systems
 * Systems automation on z/OS mainframe platform across multiple LPARs and SysPlexes
@@ -115,8 +101,6 @@ Addison, TX |
 1999 - 2004
 
 Held multiple positions. 
-
-### HIGHLIGHTS
 
 * Designed and developed a software distribution, installation, and maintenance system for a global Windows 2000 environment, consisting of over 20,000 workstations
 * Designed and developed systems to automatically and remotely deploy software packages and operating system patches in a Windows NT 4 environment, audit workstation configurations and patch levels, and generate compliance reporting for senior leadership
