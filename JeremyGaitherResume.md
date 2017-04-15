@@ -1,36 +1,40 @@
 # Jeremy L Gaither
-*Senior Software Developer*
+## Senior Software Developer
 
-* Round Rock, Texas
-* [LinkedIn](www.linkedin.com/in/jeremygaither)
+> Round Rock, TX |
+> [LinkedIn](www.linkedin.com/in/jeremygaither)
+
+---
 
 # Summary
 Experienced senior-level technology professional with over 20 years of diverse technology experience, over 10 years in software development, spending the past several years in DevOps. Proven architecture, design, and implementation abilities, both maintaining existing systems and developing multiple new systems. Polyglot developer with broad range of experience across a variety of platforms, programming languages, and automation tools. Learns new technology quickly and adapts well to changes. Comfortable communicating with senior managers and executives. Experience in both large Fortune 500 companies and startup environments. Enjoys volunteering to help kids with challenges and special needs to improve their lives through technology such as learning social skills like teamwork via Mindstorms robotics projects. 
 
 ## Qualifications
 
+* Project and small team leadership, mentoring, coaching, and code reviews
 * Systems and software architecture, design, engineering, and software development
-* DevOps operations and automation, cloud infrastructure deployment
-* Project and small team leadership, mentoring, coaching, code reviews
 * Agile and pragmatic object oriented analysis, design, and development
 * Requirements discovery and analysis, problem domain research and modeling
-* Data modeling and database design, object relational mapping, relational and NoSQL
+* Data modeling and database design, object relational mapping, multiple relational SQL and NoSQL data stores
+* DevOps operations and automation, cloud infrastructure deployment
 
 ## Technology Skills
 
-* Languages: Java (over 10 years), JavaScript (over 10 years), C/C++, C#, Objective-C
-* Web: HTML (over 15 years), CSS, XML, XML-RPC, JSON, REST, Java JSP, AngularJS
-* Backend: Spring Framework (MVC, Data REST, Cloud), Hibernate, NodeJS, ExpressJS
-* Mobile: iOS with Objective-C, Android with Java, multi-platform Cordova
-* Data: SQL, MySQL, SQL Server, DB2, Oracle, Redshift, RIAK, MongoDB, DynamoDB, S3
-* Platforms: Mac, Linux, Windows, Java App Servers, Amazon Web Services (AWS)
+* **Languages:** Java (over 10 years), JavaScript (over 10 years), C/C++, C#, Objective-C
+* **Web:** HTML (over 15 years), CSS, XML, XML-RPC, JSON, REST, Java JSP, AngularJS
+* **Backend:** Spring Framework (MVC, Data REST, Cloud), Hibernate, NodeJS, ExpressJS
+* **Mobile:** iOS with Objective-C, Android with Java, multi-platform Cordova
+* **Data:** SQL, MySQL, SQL Server, DB2, Oracle, Redshift, RIAK, MongoDB, DynamoDB, S3
+* **Platforms:** Mac, Linux, Windows, Java App Servers, Amazon Web Services (AWS), TCP/IP Networking
+
+---
 
 # Experience
 
 ## Senior DevOps Engineer
-*MAP Health Management, LLC* |
-Austin, TX |
-April 2016 - March 2017
+> *MAP Health Management, LLC* |
+> Austin, TX |
+> April 2016 - March 2017
 
 DevOps support and senior software development oversight for HIPAA-covered applications deployed in a cloud computing environment. 
 
@@ -41,9 +45,9 @@ DevOps support and senior software development oversight for HIPAA-covered appli
 * Developed secure HIPAA-compliant mobile video conference apps for iOS using Objective-C, and Android using Java, with a NodeJS ExpressJS API utilizing the TokBox WebRTC platform with their RESTful API and OpenTok SDK
 
 ## Senior Software Developer at MAP Health Management
-*Technology Navigators* |
-Austin, TX |
-November 2015 - April 2016
+> *Technology Navigators* |
+> Austin, TX |
+> November 2015 - April 2016
 
 Provided project management and development oversight of multiple external and offshore contract development teams.
 
@@ -52,9 +56,9 @@ Provided project management and development oversight of multiple external and o
 * Coached and mentored other developers regarding security and design issues
 
 ## Senior Software Developer
-*Nimboxx, Inc* |
-Austin, TX |
-June 2014 - August 2015
+> *Nimboxx, Inc* |
+> Austin, TX |
+> June 2014 - August 2015
 
 Advanced engineering and software development for the Nimboxx hyperconverged server appliance. Held multiple positions. Part-time consultant February 2014 - June 2014. Nimboxx ceased business operations in 2015.
 
@@ -69,9 +73,9 @@ Advanced engineering and software development for the Nimboxx hyperconverged ser
 * Utilized AJAX (Asynchronous JavaScript and XML) and XML-RPC/JSON-RPC style for API communication, along with front-end frameworks like jQuery
 
 ## Assistant Vice President, Systems Engineering Consultant
-*Bank of America Corp*  |
-Addison, TX |
-January 2006 - June 2014 
+> *Bank of America Corp*  |
+> Addison, TX |
+> January 2006 - June 2014 
 
 Provided software architecture, design, and systems/software development of multiple multi-tier systems running on Windows and Linux platforms. Supported highly critical systems, such as the global on-call scheduling and notification system, which is utilized for communicating critical technical incidents and other events via pagers, SMS, email, and other mobile channels. Modernized multiple legacy mainframe systems with rewrites in Java and web apps. (Formerly MBNA 1999-2005; Full-time Contractor Feb-Aug 1999)
 
@@ -87,18 +91,18 @@ Provided software architecture, design, and systems/software development of mult
 
 
 ## Mainframe Systems Engineer
-*MBNA Technology, Inc (Bank of America)*  |
-Addison, TX |
-2004 - 2006
+> *MBNA Technology, Inc (Bank of America)*  |
+> Addison, TX |
+> 2004 - 2006
 
 * Integrated mainframe and distributed applications by designing and developing modern Java applications utilizing TCP/IP sockets, message queues (JMS), and multiple databases
 * Supported mainframe communications with multiple Solaris and Windows systems
 * Systems automation on z/OS mainframe platform across multiple LPARs and SysPlexes
 
 ## Desktop Computing Systems Engineer
-*MBNA Technology, Inc (Bank of America)* |
-Addison, TX |
-1999 - 2004
+> *MBNA Technology, Inc (Bank of America)* |
+> Addison, TX |
+> 1999 - 2004
 
 Held multiple positions. 
 
@@ -106,12 +110,14 @@ Held multiple positions.
 * Designed and developed systems to automatically and remotely deploy software packages and operating system patches in a Windows NT 4 environment, audit workstation configurations and patch levels, and generate compliance reporting for senior leadership
 * Troubleshoot, test, and remediate Windows NT patches required for Y2K compliance, resolved install order and compatibility problems allowing for automated deployment
 
+---
+
 # Community Involvement
 
 ## Board of Directors, Coach
-*Tracks 4 Kids, Nonprofit Corporation* |
-Allen, TX |
-2010 - Present
+> *Tracks 4 Kids, Nonprofit Corporation* |
+> Allen, TX |
+> 2010 - Present
 
 Focuses on assisting special needs and at-risk children develop social and life skills. Provides several programs for children with special developmental needs such as autism spectrum disorders, Aspergers syndrome, ADHD, and other challenges, allowing the children to grow their social and planning skills through teamwork and technical projects. 
 
