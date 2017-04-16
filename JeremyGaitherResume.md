@@ -41,6 +41,7 @@ DevOps support and senior software development oversight for HIPAA-covered appli
 * Assisted CTO and management team with architecture and design for next generation streaming analytics platform, migrating platform to RESTful API and microservice architecture
 * Developed and deployed multiple custom DevOps tools using JavaScript NodeJS AWS APIs and Bash with the AWS CLI tools
 * Automated builds and deployment with Jenkins, Gulp, Maven, Bash scripts, Chef
+* Designed, developed, and did code reviews for Spring MVC Java API back-end and Angular front-end with HTML5, CSS3, Bootstrap, and jQuery
 * Utilized multiple AWS technologies to provision and deploy HIPAA-compliant infrastructure and server instances: Elastic Compute (EC2), Elastic Load Balancer (ELB), Virtual Private Cloud (VPC), S3, Relational Data Service (RDS), Redshift, OpsWorks, Identity and Account Management (IAM) policies, CloudFormation, CloudWatch, and other AWS tools/technologies
 * Developed secure HIPAA-compliant mobile video conference apps for iOS using Objective-C, and Android using Java, with a NodeJS ExpressJS API utilizing the TokBox WebRTC platform with their RESTful API and OpenTok SDK
 
@@ -49,11 +50,11 @@ DevOps support and senior software development oversight for HIPAA-covered appli
 > Austin, TX |
 > November 2015 - April 2016
 
-Provided project management and development oversight of multiple external and offshore contract development teams.
+Provided project management and development oversight of multiple external and offshore contract development teams. Contract at MAP Health Management, hired directly April 2016. 
 
-*  JSON RPC style API-driven SPA app with AngularJS, NodeJS and Java for backend and API, and SQL Server
 * Reviewed code pull requests for design, security concerns, correctness, and HIPAA compliance prior to merging code from external contractors
 * Coached and mentored other developers regarding security and design issues
+*  JSON RPC style API-driven single page app (SPA) with AngularJS, NodeJS and Java for backend and API, and SQL Server stored procedures
 
 ## Senior Software Developer
 > *Nimboxx, Inc* |
